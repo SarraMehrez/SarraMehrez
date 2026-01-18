@@ -1,33 +1,33 @@
-<!-- ===================== HERO BANNER ===================== -->
+<!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&text=Sarra%20Mehrez&fontSize=48&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&text=Sarra%20Mehrez&fontSize=46&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
 </p>
 
-<!-- ===================== ANIMATED TYPING ===================== -->
+<!-- ===================== PROFESSIONAL TAGLINE ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=F72585&center=true&vCenter=true&width=750&lines=DevOps+Girl+in+Tech+%F0%9F%92%BB;Cloud+%7C+Kubernetes+%7C+Automation;GitOps+Queen+%F0%9F%91%91;Breaking+Prod+and+Fixing+It+Better+%E2%9A%A1" />
-</p>
-
----
-
-<!-- ===================== GIF INTRO ===================== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Y3Y1ZXk5Y3o1eW9qYmU0aDlwZ2k3cGx1M2U1M2Nwb2N3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="380"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Kubernetes+%7C+GitOps+%7C+Disaster+Recovery;Designing+Systems+That+Survive+Failure;Always+Ready+for+Disasters+That+Haven%E2%80%99t+Happened+Yet" />
 </p>
 
 ---
 
-## 👑 Who Am I?
+## 👩‍💼 Professional Summary
+
+I am a **Cloud & DevOps Engineer** focused on **resilient, failure-tolerant, and automated systems**.  
+My work centers on **Kubernetes disaster recovery, GitOps automation, and cloud-native reliability engineering**.
+
+I design systems assuming **failure is inevitable**, and recovery must be **predictable, fast, and automated**.
+
+> **Mindset:** *Expect failure. Engineer recovery.*
+
+---
+
+## 🧠 Engineering Philosophy
 
 ```yaml
-👩‍💻 name: Sarra Mehrez
-🚀 title: DevOps / Cloud Engineer
-💅 vibe: cool • confident • automated
-🎯 obsessed_with:
-  - Kubernetes Disaster Recovery
-  - GitOps & Automation
-  - Cloud-Native Systems
-☁️ cloud:
-  - Azure (AKS)
-  - Kubernetes (k3s | k3d | AKS)
-🧠 mindset: "Automate everything. Fear nothing."
+principles:
+  - failure_is_expected: true
+  - recovery_is_automated: true
+  - monitoring_is_mandatory: true
+  - manual_intervention: minimized
+  - chaos_testing: encouraged
+panic_level: 0%
